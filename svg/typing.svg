@@ -1,0 +1,23 @@
+<svg width="435" height="30">
+    <style>
+        .typing {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 24px;
+            white-space: nowrap;
+            overflow: hidden;
+            border-right: 0.15em solid orange;
+            animation: typing 2.5s steps(40, end), blink-caret 0.75s step-end infinite;
+        }
+
+        @keyframes typing {
+            from { width: 0 }
+            to { width: 100% }
+        }
+
+        @keyframes blink-caret {
+            from, to { border-color: transparent }
+            50% { border-color: orange }
+        }
+    </style>
+    <text x="0" y="20" class="typing">Hi, I'm Vlad; I'm FrontEnd Developer</text>
+</svg>
