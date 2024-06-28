@@ -1,7 +1,7 @@
 <!-- START:readme-typing -->
 <img src="readme-typing.svg" />
 <!-- END:readme-typing -->
-<p><em>Full-Stack Developer</em></p>
+<p><em>FrontEnd Developer</em></p>
 
 
 
