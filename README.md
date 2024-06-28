@@ -3,7 +3,8 @@
 -->
 
 
-![Typing SVG](svg/typing.svg)  
+
+<img src="svg/typing.svg"/>
 <!--<img src="svg/rotating.svg"/>  -->
 
 :v: I'm a student at Far Eastern Federal University (FEFU).  
