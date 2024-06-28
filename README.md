@@ -3,6 +3,7 @@
 -->
 
 ![Typing SVG](svg/typing.svg)
+![Rotating SVG](svg/rotating.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywur7t&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
