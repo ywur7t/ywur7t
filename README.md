@@ -15,7 +15,15 @@ My interest in programming and technology has led me towards frontend developmen
 ### About me: ###  
 - I'm a 20 y.o. undergraduate student :star:
 - I don't have any experience in commercial development. :disappointed:  
-- I enjoy the development process, and the more challenging it is, the more interesting it becomes. :fire:  
+- I enjoy the development process, and the more challenging it is, the more interesting it becomes. :fire:
+
+### Tech Stack ###  
+```
+)
+```
+
+### Stats ###
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywur7t&theme=aura)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ywur7t&show_icons=true&theme=gotham)
