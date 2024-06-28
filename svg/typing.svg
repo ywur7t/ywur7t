@@ -41,3 +41,28 @@
         </textPath>
     </text>
 </svg>
+
+<!-- 
+<svg xmlns="http://www.w3.org/2000/svg" width="435" height="50" viewBox="0 0 435 50">
+    <style>
+        .text {
+            font-family: monospace;
+            font-size: 20px;
+            fill: #06d6a0;
+            animation: typing 2.5s steps(40, end), blink-caret 0.75s step-end infinite;
+        }
+
+        @keyframes typing {
+            from { width: 0; }
+            to { width: 100%; }
+        }
+
+        @keyframes blink-caret {
+            from, to { border-right-color: transparent; }
+            50% { border-right-color: #06d6a0; }
+        }
+    </style>
+    <text x="0" y="20" class="text">Hi, I'm Vlad</text>
+    <text x="0" y="40" class="text">I'm FrontEnd Developer</text>
+</svg>
+ -->
